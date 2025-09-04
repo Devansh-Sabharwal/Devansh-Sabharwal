@@ -37,43 +37,6 @@ const devansh = {
 
 <br clear="right"/>
 
----
-
-## 🚀 **What I'm Up To**
-
-
-
-<table>
-<tr>
-<td width="50%">
-
-**🔭 Currently Building**
-- Full Stack Web Applications
-- Decentralized applications on Solana
-- AI-powered animation platforms
-
-
-**🌱 Learning & Exploring**
-- Advanced Solana program development
-- Solidity and Etherium Ecosystem
-- Deep Dive into Rust Programming
-
-</td>
-<td width="50%">
-
-**👯 Collaboration Goals**
-- Innovative Web3 projects
-- Open-source contributions
-- Scalable fullstack solutions
-
-**💬 Let's Talk About**
-- React ecosystem & performance
-- Blockchain architecture
-- Modern UI/UX design patterns
-
-</td>
-</tr>
-</table>
 
 ---
 
