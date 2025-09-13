@@ -113,7 +113,7 @@ const devansh = {
 <table>
 <tr>
 <td width="50%">
-<div align="center">
+<div align="left">
 
 ### 🎬 **[Visura](https://visura.space/)**
 *AI-Powered 2D Animation Platform*
@@ -135,7 +135,7 @@ const devansh = {
 </div>
 </td>
 <td width="50%">
-<div align="center">
+<div align="left">
 
 ### 🎨 **[Coscribe](https://coscribe.onrender.com/)**
 *Collaborative Drawing Platform*
@@ -159,7 +159,7 @@ const devansh = {
 </tr>
 <tr>
 <td width="50%">
-<div align="center">
+<div align="left">
 
 ### 💰 **[Mintory](https://mintory-solana.vercel.app/)**
 *Solana Meme Coin Launcher*
@@ -181,7 +181,7 @@ const devansh = {
 </div>
 </td>
 <td width="50%">
-<div align="center">
+<div align="left">
 
 ### 🌐 **[Portfolio](https://devanshsabharwal.vercel.app/)**
 *Personal Showcase*
