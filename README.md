@@ -24,7 +24,6 @@ const devansh = {
     role: "FullStack Developer",
     passions: ["Web3", "Scalable Systems", "UI/UX"],
     currentlyLearning: ["Advanced React Patterns", "Blockchain Development"],
-    funFact: "I debug with console.log and border-red-500 and I'm not ashamed! 😄"
 };
 ```
 
