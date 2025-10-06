@@ -121,7 +121,6 @@ const devansh = {
 
 **🔥 Features**
 - 🤖 Natural language to animation
-- 🎨 High-quality 2D rendering
 - ⚡ Real-time generation
 - 🎯 Professional output
 
