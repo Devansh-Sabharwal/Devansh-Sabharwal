@@ -190,7 +190,6 @@ const devansh = {
 **🔥 Features**
 - ⚡ Blazing fast performance
 - 🎯 Modern responsive design
-- 📱 Mobile-first approach
 - 🎨 Smooth animations
 
 **🛠️ Tech Stack**
