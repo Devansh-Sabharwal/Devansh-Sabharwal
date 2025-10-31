@@ -243,6 +243,6 @@ const devansh = {
 **🙏 Thanks for visiting! Star ⭐ some repos if you find them interesting!**
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/> -->
 
 </div>
