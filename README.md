@@ -27,7 +27,7 @@ const devansh = {
 };
 ```
 
-- 🔭 Currently working on **decentralized applications**
+- 🔭 Currently working on **decentralized applications in Solana**
 - 🌱 Exploring **Solana ecosystem** and **advanced Web3 patterns**
 - 👯 Looking to collaborate on **innovative fullstack projects**
 - 💬 Ask me about **React, Next.js, Node.js, or Web3**
